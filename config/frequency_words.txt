@@ -14,7 +14,6 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -44,7 +43,6 @@ ai
 
 科技
 
-新质生产力
 
 特朗普
 川普
@@ -58,5 +56,8 @@ eth
 sol
 erp
 
-存储
-sandisk
+黄金
+白银
+有色金属
+
+银临
